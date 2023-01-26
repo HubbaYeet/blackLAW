@@ -175,12 +175,12 @@ _menu_()
 |___|  /\____/|__|  \___  >____  >
      \/                 \/     \/ 
 '''
-# v.0.6.0
+# v.0.7.0
 # major.minor.patch
 
 # to-do:
 '''
-add autofill options
+---
 '''
 
 # rip blackLAW bunny 

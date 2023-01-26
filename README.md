@@ -12,7 +12,7 @@ blackLAW is an automated penetration testing toolkit that makes it easy for secu
 
 ## Installation
 To install blackLAW, you will need to have [Python](https://www.python.org/) and [git](https://git-scm.com/) installed on your system. Then, you can use the following commands to install blackLAW:
-`git clone https://github.com/your_username/blackLAW.git
+`git clone https://github.com/HubbaYeet/blackLAW.git
 cd blackLAW
 pip install -r requirements.txt`
 This will clone the blackLAW repository to your local machine, navigate to the blackLAW directory and install all the necessary dependencies.
@@ -24,7 +24,7 @@ This will present you with the main menu, where you can choose the task you want
 Please note that this installation method will give you the latest version of the toolkit that may contain new features and bug fixes, but also might contain untested code, so use at your own risk.
 
 ## Contribution
-blackLAW is an open-source project and welcomes contributions from the community. If you would like to contribute to the project, please feel free to submit pull requests or open an issue on the [GitHub repository](https://github.com/).
+blackLAW is an open-source project and welcomes contributions from the community. If you would like to contribute to the project, please feel free to submit pull requests or open an issue on the [GitHub repository](https://github.com/HubbaYeet/blackLAW).
 
 ## Similar Tools
 - [Metasploit](https://www.metasploit.com/)
